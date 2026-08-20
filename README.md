@@ -1,5 +1,6 @@
 # 💫 About Me:
-I' m 1 st Year Engineering Student<br>Python , My SQL<br>I am Curious to Learn Programming Languages<br>I Believe in "Hard Work"
+*I' m 1 st Year Engineering Student
+<br>Python , My SQL<br>I am Curious to Learn Programming Languages<br>I Believe in "Hard Work"
 
 
 ## 🌐 Socials:
