@@ -1,6 +1,11 @@
-# 💫 About Me:
- Hi, 👋 I'm Sagar Raj!<br><br>🎓 Computer Science and Engineering Student  <br>💻 Aspiring Software Developer  <br>🚀 Passionate about Python, Web Development, and Artificial Intelligence.<br><br>### About Me<br>- 🌱 Currently learning Python, HTML, CSS, JavaScript, and AI.<br>- 💡 Interested in building real-world projects and solving problems through technology.<br>- 🔭 Working on web development projects like IP Orbit and ShowCase.<br>- 🧠 Exploring new technologies and improving my programming skills.<br>- 🎯 Goal: Become a skilled Software Developer.<br><br>### Tech Interests<br>Python | C | HTML | CSS | Flask | AI | Web Development | Full Stack Development<br><br>📌 Always learning, building, and improving!
+<h1 align="center">Hi 👋, I'm Sagar. M</h1>
+🎓 Computer Science and Engineering Student  <br>💻 Aspiring Software Developer  <br>🚀 Passionate about Python, Web Development, and Artificial Intelligence.<br><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarraj369&label=Profile%20views&color=0e75b6&style=flat" alt="sagar. m" /> </p>
+
+ ## About Me<br>
+ 🌱 Currently learning Python, HTML, CSS, JavaScript, and AI.<br>- 💡 Interested in building real-world projects and solving problems through technology.<br>- 🔭 Working on web development projects like IP Orbit and ShowCase.<br>- 🧠 Exploring new technologies and improving my programming skills.<br>- 🎯 Goal: Become a skilled Software Developer.<br><br>
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thisissagarraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sagarm369) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_Sagar_Raj_369) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagarrajbhanu9844@gmail.com) 
@@ -11,11 +16,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=sagarraj369&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sagarraj369&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sagarraj369&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sagarraj369&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=sagarraj369&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
